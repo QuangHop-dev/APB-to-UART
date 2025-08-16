@@ -1,0 +1,7 @@
+Running: xsim.dir/ReceiveFakeStartBit_behav/xsimk.exe -simmode gui -wdb ReceiveFakeStartBit_behav.wdb -simrunnum 0 -socket 62652
+Design successfully loaded
+Design Loading Memory Usage: 10900 KB (Peak: 10900 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 11660 KB (Peak: 11660 KB)
+Simulation CPU Usage: 77 ms

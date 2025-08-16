@@ -1,0 +1,7 @@
+Running: xsim.dir/TransdataOtherBaudrate_behav/xsimk.exe -simmode gui -wdb TransdataOtherBaudrate_behav.wdb -simrunnum 0 -socket 62695
+Design successfully loaded
+Design Loading Memory Usage: 10904 KB (Peak: 10904 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 11664 KB (Peak: 11664 KB)
+Simulation CPU Usage: 61 ms

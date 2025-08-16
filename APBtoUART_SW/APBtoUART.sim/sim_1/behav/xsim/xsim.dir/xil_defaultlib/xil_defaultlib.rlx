@@ -1,0 +1,15 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+A:/Personal Projects/APBtoUART/APBtoUART.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sim_1/new/Receive2data.v,1755360951,verilog,,,,Receive2data,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sim_1/new/ReceiveFakeStartBit.v,1755360973,verilog,,,,ReceiveFakeStartBit,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sim_1/new/ReceivedataNoParity.v,1755360939,verilog,,,,ReceivedatanoParity,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sim_1/new/TransdataOtherBaudrate.v,1755361140,verilog,,,,TransdataOtherBaudrate,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sim_1/new/TransdatanoParity.v,1755361154,verilog,,,,TransdatanoParity,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sources_1/new/APB_Interface.v,1755360870,verilog,,A:/Personal Projects/APBtoUART/APBtoUART.srcs/sources_1/new/APB_UART_top.v,,APB_Interface,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sources_1/new/APB_UART_top.v,1755360834,verilog,,A:/Personal Projects/APBtoUART/APBtoUART.srcs/sources_1/new/BCLK_Generator.v,,APB_UART_top,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sources_1/new/BCLK_Generator.v,1755360879,verilog,,A:/Personal Projects/APBtoUART/APBtoUART.srcs/sources_1/new/UART_Receiver.v,,BCLK_Generator,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sources_1/new/UART_Receiver.v,1755360891,verilog,,A:/Personal Projects/APBtoUART/APBtoUART.srcs/sources_1/new/UART_Transmitter.v,,UART_Receiver,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+A:/Personal Projects/APBtoUART/APBtoUART.srcs/sources_1/new/UART_Transmitter.v,1755360906,verilog,,A:/Personal Projects/APBtoUART/APBtoUART.srcs/sim_1/new/ReceivedataNoParity.v,,UART_Transmitter,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
