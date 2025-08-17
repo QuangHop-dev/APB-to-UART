@@ -71,6 +71,15 @@ The enviroment testing is built with 100MHz for system frequency and 460800 for 
 There are some image of result:
 ## Trans data from APB to UART with no parity:
 Setting enable signal, baudrate and data in APB interface:
-
-
-
+<img width="1748" height="584" alt="image" src="https://github.com/user-attachments/assets/430424d2-eba7-4895-8aea-5f1cf98e942f" />
+Result in TXD:
+<img width="1463" height="549" alt="image" src="https://github.com/user-attachments/assets/a33c21cf-1f35-442c-988f-cdfce712e003" />
+## Receive data from APB to UART with no parity:
+Setting enable signal, baudrate:
+<img width="1479" height="594" alt="image" src="https://github.com/user-attachments/assets/1f57024e-c5c3-4566-98f1-11711aa0e7ee" />
+Data in RXD:
+<img width="1500" height="641" alt="image" src="https://github.com/user-attachments/assets/add65337-f179-4019-bec2-07a20f066421" />
+Read data in APB:
+<img width="1476" height="715" alt="image" src="https://github.com/user-attachments/assets/4656ae36-67fb-4af0-a570-f3f15873f299" />
+# Eviroment testing using UVM
+This simulation environment is still under construction and will be completed in the future.
