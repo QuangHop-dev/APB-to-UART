@@ -1,4 +1,4 @@
-# IP APB-UART
+#  APB2UART Bridge
 The APB-UART module acts as a bridge that enables communication between the APB and UART protocols. Its APB interface is implemented following the APB 4 specification. The bridge provides a total of five interrupt signals.
 # Pin diagram of IP
 Pin diagram of IP is showed below:
