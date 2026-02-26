@@ -2,7 +2,7 @@
 The APB-UART module acts as a bridge that enables communication between the APB and UART protocols. Its APB interface is implemented following the APB 4 specification. The bridge provides a total of five interrupt signals.
 # Pin diagram of IP
 Pin diagram of IP is showed below:
-<img width="883" height="621" alt="image" src="https://github.com/user-attachments/assets/bef06c00-6501-4d52-9b99-e65babe55a1b" />
+<img width="874" height="887" alt="image" src="https://github.com/user-attachments/assets/157e3e0b-f4dd-41ff-99b1-af9651259232" />
 The signals PCLK and PRESET are provided by the system. The signals PSEL, PWRITE, PENABLE, PADDR, PWDATA, PSTRB, PPROT, PRDATA, PREADY, and PSLVERR are associated with the APB bus. Meanwhile, TXD and RXD are used to interface with the UART peripheral.  
 *Detail of six interrupt signals:
 | Name     | Description                                                  |
